@@ -7,10 +7,11 @@ ModelCheckpoint, ReduceLROnPlateau, EarlyStopping
 train, valid   
 정확도 : 90%   
 ```
+
 ```     
-DACON_MNIST_01(3등 모델 사용)      
+DACON_MNIST_02(3등 모델 사용)      
 ModelCheckpoint, ReduceLROnPlateau, EarlyStopping   
 train, valid
-image
+ImageDataGenerator, flow, fit_generator
 정확도 : 90%   
 ```   
