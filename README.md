@@ -1,1 +1,1 @@
-# Kaggle & 데이터 분석 방법
+# Kaggle & DACON 딥러닝 연습
