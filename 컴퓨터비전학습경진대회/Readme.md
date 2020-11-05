@@ -15,3 +15,12 @@ train, valid
 ImageDataGenerator, flow, fit_generator
 정확도 : 92%   
 ```   
+
+```     
+DACON_MNIST_03(3등 모델 사용)      
+ModelCheckpoint, ReduceLROnPlateau, EarlyStopping   
+train, valid
+ImageDataGenerator, flow, fit_generator
+StratifiedKFold
+정확도 : 92%   
+```   
