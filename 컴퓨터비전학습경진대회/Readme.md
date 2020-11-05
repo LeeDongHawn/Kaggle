@@ -21,6 +21,7 @@ DACON_MNIST_03(3등 모델 사용)
 ModelCheckpoint, ReduceLROnPlateau, EarlyStopping   
 train, valid
 ImageDataGenerator, flow, fit_generator
-StratifiedKFold
+StratifiedKFold   
+다른점 : (train,validation,test가 모두 for문 안에 들어감, 여러 번 수행한 결과를 종합함)   
 정확도 : 92%   
 ```   
