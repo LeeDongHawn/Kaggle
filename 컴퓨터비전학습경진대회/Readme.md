@@ -13,5 +13,5 @@ DACON_MNIST_02(3등 모델 사용)
 ModelCheckpoint, ReduceLROnPlateau, EarlyStopping   
 train, valid
 ImageDataGenerator, flow, fit_generator
-정확도 : 88%   
+정확도 : 92%   
 ```   
