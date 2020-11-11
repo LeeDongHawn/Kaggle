@@ -25,5 +25,5 @@ StratifiedKFold
 다른점 : (train,validation,test가 모두 for문 안에 들어감, 여러 번 수행한 결과를 종합함)
 categorical_crossentropy : 다중 분류 손실 함수, one-hot encoding 필요함   
 sparse_categorical_crossentropy : 다중 분류 손실함수, one-hot encoding 따로 안해도 됨   
-정확도 : 92%   
+-> 방법만 참고(시간 오래걸림)    
 ```   
